@@ -1,0 +1,2 @@
+-keep class com.mlmvpn.scanner.openvpn.OpenVpnNative { *; }
+-keep class com.ovpn.autodelay.AutoDelayVpnService$* { *; }
